@@ -1,1 +1,1 @@
-creating calculator using html,css and javascript 
+create a calculator using html,css and javascript 
